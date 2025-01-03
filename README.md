@@ -6,7 +6,7 @@ Empower_AI is designed to break down barriers to stock market investments and pr
 
 ## **Empower_AI (Checkout our website)** https://kprit-hackathon-o25h.vercel.app/
 
-## **Empower_AI: powered by intel oneAPI** https://huggingface.co/spaces/muskangoyal06/Investo_AI (Deployed on hugging face)
+
 
 ## **The Problem We're Solving**
 
